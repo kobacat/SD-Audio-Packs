@@ -1,0 +1,9 @@
+{
+  "name": "Wii U System Setup",
+  "description": "This pack adds the music that plays during the Wii U System Setup to your Steam Deck's menu.",
+  "author": "kobacat",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": []
+}

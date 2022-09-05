@@ -1,0 +1,9 @@
+{
+  "name": "PlayStation 5 Home Menu",
+  "description": "This pack adds the music that plays in the PlayStation 5 Home Menu to your Steam Deck's menu.",
+  "author": "kobacat",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": []
+}
